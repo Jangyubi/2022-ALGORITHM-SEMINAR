@@ -29,7 +29,7 @@
 **날짜** | **활동 내용** | **비고**
 ---| ---| ---|
 2022/5/30 | GitHub 사용 방법 1 (COMMIT)
-2022/6/24 | GitHub 사용방법 2 (FORK, BRANCH, FETCH)
+2022/6/24 | GitHub 사용 방법 2 (FORK, BRANCH, FETCH)
 
 
 ### 👫 참여자
